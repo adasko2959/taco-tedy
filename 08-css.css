@@ -1,0 +1,55 @@
+
+body {
+background-color: #02158a;}
+
+h1, h2, h3, h4, p, pre, li, ol {
+color: #FD5CA0;
+font-family: 'Trebuchet MS', sans-serif;}
+
+.ok {
+  background-color: #02158a;
+  border: none;
+  color: #FD5CA0;
+  padding: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.3s;
+  cursor: pointer;
+}
+
+.ok:hover {
+  background-color: #FD5CA0;
+  color: #02158a;
+}
+
+.ok:visited {
+  color: #02158a;
+  background-color: #FD5CA0;
+}
+
+.soma {
+  margin-left: 100px;
+  margin-right: 100px;
+  border: 1px solid #FD5CA0;
+}
+
+.somai {
+  margin-left: 400px;
+  margin-right: 400px;
+  border: 1px solid #FD5CA0;
+}
+
+.somaa {
+  margin-left: 200px;
+  margin-right: 200px;
+  border: 1px solid #FD5CA0;
+  padding-left: 30px;
+}
+
+pre {
+    color: white;
+}

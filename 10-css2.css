@@ -1,0 +1,50 @@
+
+body {
+  background: #0f1235;
+}
+
+h1, h2, h3, h4, p, pre, li, ol {
+color: #ed2a2c;
+font-family: 'Saira Stencil One';}
+
+.soma {
+  margin-left: 100px;
+  margin-right: 100px;
+  border: 1px solid #ed2a2c;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.ok {
+  background-color: #0f1235;
+  border: none;
+  color: #ed2a2c;
+  padding: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.3s;
+  cursor: pointer;
+  font-family: 'Saira Stencil One';
+}
+
+.ok:hover {
+  background-color: #ed2a2c;
+  color: #0f1235;
+}
+
+.ok:visited {
+  color: #0f1235;
+  background-color: #ed2a2c;
+}
+
+.aha {
+  margin-left: 100px;
+  margin-right: 100px; 
+}
+

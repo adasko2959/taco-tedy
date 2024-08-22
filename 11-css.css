@@ -1,0 +1,47 @@
+
+body {
+background-color: #001413;}
+
+h1, h2, h3, h4, p, pre, li, ol {
+color: #bef5f6;
+font-family: 'Rajdhani';}
+
+.ok {
+  background-color: #001413;
+  border: none;
+  color: #bef5f6;
+  padding: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.3s;
+  cursor: pointer;
+  font-family: 'Rajdhani';
+}
+
+.ok:hover {
+  background-color: #bef5f6;
+  color: #001413;
+}
+
+
+.somai {
+  margin-left: 400px;
+  margin-right: 400px;
+  border: 1px solid #bef5f6;
+}
+
+.somaa {
+  margin-left: 200px;
+  margin-right: 200px;
+  border: 1px solid #bef5f6;
+  padding-left: 30px;
+}
+
+pre {
+    color: #dcfcfc;
+	font-family: 'Red Hat Display';
+}

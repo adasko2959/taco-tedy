@@ -1,0 +1,57 @@
+
+body {
+  background: rgb(222,118,133);
+  background: linear-gradient(156deg, rgba(222,118,133,1) 56%, rgba(0,222,237,1) 100%)}
+
+h1, h2, h3, h4, p, li, ol, button {
+color: white;
+font-family: 'Alkatra';}
+
+.ok {
+  background-color: #de7685;
+  border: none;
+  color: white;
+  padding: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.3s;
+  cursor: pointer;
+}
+
+.ok:hover {
+  background-color: white;
+  color: #de7685;
+}
+
+.ok:visited {
+  color: #de7685;
+  background-color: white;
+}
+
+.soma {
+  margin-left: 100px;
+  margin-right: 100px;
+  border: 1px solid white;
+}
+
+.somai {
+  margin-left: 400px;
+  margin-right: 400px;
+  border: 1px solid white;
+}
+
+.somaa {
+  margin-left: 200px;
+  margin-right: 200px;
+  border: 1px solid white;
+  padding-left: 30px;
+}
+
+pre {
+    color: white;
+    font-family: Amiko;
+}
