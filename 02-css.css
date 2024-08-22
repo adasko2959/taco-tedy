@@ -1,0 +1,47 @@
+
+body {
+    background-color: #071109;}
+    
+    h1, h2, h3, h4, p, li, ol {
+    color: #568f6c;
+    font-family: 'Josefin Sans';}
+    
+    .ok {
+      background-color: #071109;
+      border: none;
+      color: #568f6c;
+      padding: 16px;
+      padding-left: 20px;
+      padding-right: 20px;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      transition-duration: 0.3s;
+      cursor: pointer;
+      font-family: 'Josefin Sans';
+    }
+    
+    .ok:hover {
+      background-color: #568f6c;
+      color: #071109;
+    }
+    
+    
+    .somai {
+      margin-left: 400px;
+      margin-right: 400px;
+      border: 1px solid #568f6c;
+    }
+    
+    .somaa {
+      margin-left: 200px;
+      margin-right: 200px;
+      border: 1px solid #568f6c;
+      padding-left: 30px;
+    }
+    
+    pre {
+        color: #e0d9c5;
+        font-family: 'Noto Sans';
+    }

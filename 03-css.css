@@ -1,0 +1,47 @@
+
+body {
+    background-color: #a7bfb7;}
+    
+    h1, h2, h3, h4, p, li, ol {
+    color: #0e1219;
+    font-family: 'Mansalva';}
+    
+    .ok {
+      background-color: #a7bfb7;
+      border: none;
+      color: #0e1219;
+      padding: 16px;
+      padding-left: 20px;
+      padding-right: 20px;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      transition-duration: 0.3s;
+      cursor: pointer;
+      font-family: 'Mansalva';
+    }
+    
+    .ok:hover {
+      background-color: #0e1219;
+      color: #a7bfb7;
+    }
+    
+    
+    .somai {
+      margin-left: 400px;
+      margin-right: 400px;
+      border: 1px solid #0e1219;
+    }
+    
+    .somaa {
+      margin-left: 200px;
+      margin-right: 200px;
+      border: 1px solid #0e1219;
+      padding-left: 30px;
+    }
+    
+    pre {
+        color: #0e1219;
+        font-family: 'Noto Sans', sans-serif;
+    }

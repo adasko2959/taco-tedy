@@ -1,0 +1,47 @@
+
+body {
+    background-color: #a4b99c;}
+    
+    h1, h2, h3, h4, p, li, ol {
+    color: black;
+    font-family: 'Fjalla one';}
+    
+    .ok {
+      background-color: #a4b99c;
+      border: none;
+      color: black;
+      padding: 16px;
+      padding-left: 20px;
+      padding-right: 20px;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      transition-duration: 0.3s;
+      cursor: pointer;
+      font-family: 'Fjalla one';
+    }
+    
+    .ok:hover {
+      background-color: black;
+      color: #a4b99c;
+    }
+    
+    
+    .somai {
+      margin-left: 400px;
+      margin-right: 400px;
+      border: 1px solid black;
+    }
+    
+    .somaa {
+      margin-left: 200px;
+      margin-right: 200px;
+      border: 1px solid black;
+      padding-left: 30px;
+    }
+    
+    pre {
+        color: rgb(0, 17, 4);
+        font-family: 'Noto Sans';
+    }

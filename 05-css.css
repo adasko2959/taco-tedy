@@ -1,0 +1,47 @@
+
+body {
+background-color: #0a090f;}
+
+h1, h2, h3, h4, p, li, ol {
+color: #c6124b;
+font-family: 'Cantora One';}
+
+.ok {
+  background-color: #0a090f;
+  border: none;
+  color: #c6124b;
+  padding: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.3s;
+  cursor: pointer;
+  font-family: 'Cantora One';
+}
+
+.ok:hover {
+  background-color: #c6124b;
+  color: #0a090f;
+}
+
+
+.somai {
+  margin-left: 400px;
+  margin-right: 400px;
+  border: 1px solid #c6124b;
+}
+
+.somaa {
+  margin-left: 200px;
+  margin-right: 200px;
+  border: 1px solid #c6124b;
+  padding-left: 30px;
+}
+
+pre {
+    color: #fcbdcf;
+	font-family: 'Amiko';
+}
