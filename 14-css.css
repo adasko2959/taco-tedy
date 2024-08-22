@@ -1,0 +1,47 @@
+
+body {
+    background-color: #070705;}
+    
+    h1, h2, h3, h4, p, li, ol {
+    color: #fcf9e7;
+    font-family: 'Alatsi';}
+    
+    .ok {
+      background-color: #070705;
+      border: none;
+      color: #fcf9e7;
+      padding: 16px;
+      padding-left: 20px;
+      padding-right: 20px;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      transition-duration: 0.3s;
+      cursor: pointer;
+      font-family: 'Alatsi';
+    }
+    
+    .ok:hover {
+      background-color: #fcf9e7;
+      color: #070705;
+    }
+    
+    
+    .somai {
+      margin-left: 400px;
+      margin-right: 400px;
+      border: 1px solid #fcf9e7;
+    }
+    
+    .somaa {
+      margin-left: 200px;
+      margin-right: 200px;
+      border: 1px solid #fcf9e7;
+      padding-left: 30px;
+    }
+    
+    pre {
+        color: #fcf2eb;
+        font-family: 'Manrope';
+    }
